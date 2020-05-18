@@ -1,0 +1,112 @@
+[
+    {
+        "name": "unet_4_0",
+        "deep": 4,
+        "images": 1,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_2_0",
+        "deep": 2,
+        "images": 2,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "conv_4",
+        "deep": 4,
+        "images": 1,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "conv_2",
+        "deep": 2,
+        "images": 2,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_2_1",
+        "deep": 2,
+        "images": 1,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_4_1",
+        "deep": 4,
+        "images": 2,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_2_2",
+        "deep": 2,
+        "images": 1,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_4_2",
+        "deep": 4,
+        "images": 2,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_2_3",
+        "deep": 2,
+        "images": 1,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    },
+    {
+        "name": "unet_4_3",
+        "deep": 4,
+        "images": 2,
+        "batch_size": 4,
+        "train_time": 0,
+        "loss": 0,
+        "accuracy": 0,
+        "test_pics": 8,
+        "test": {}
+    }
+]
